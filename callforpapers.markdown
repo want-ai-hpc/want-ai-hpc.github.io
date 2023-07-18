@@ -30,3 +30,5 @@ We welcome submissions on the following topics, but not limited to:
 - Energy-efficient training
 - Efficient data loading and preprocessing
 - Network-aware resource allocation
+- Architecture-aware resource allocation
+- Scheduling for AI
