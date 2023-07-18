@@ -1,0 +1,45 @@
+<svg
+  width="200"
+  height="100"
+  viewBox="0 0 200 100"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+>
+  <!-- Transparent background -->
+  <rect width="200" height="100" fill="transparent" />
+
+  <!-- Huge text "WANT" -->
+  <text
+    x="50%"
+    y="50%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-size="48"
+    font-weight="bold"
+    fill="#f4a582"
+  >
+    <tspan fill="#ca0020">W</tspan>ANT
+  </text>
+
+  <!-- Small text "AI" -->
+  <text
+    x="110"
+    y="80"
+    dominant-baseline="middle"
+    font-size="16"
+    fill="#404040"
+  >
+    AI-HPC
+  </text>
+
+  <!-- Small text "HPC" -->
+  <!-- <text
+    x="140"
+    y="80"
+    dominant-baseline="middle"
+    font-size="16"
+    fill="#333333"
+  >
+    HPC
+  </text> -->
+</svg>
