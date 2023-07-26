@@ -12,7 +12,7 @@ permalink: /neurips2023/callforpapers
 
 - Camera-ready, poster, and video (optionally) submission: to be announced
 
-- Submision link: to be announced
+- Submision link: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/WANT)
 
 - The site will start accepting submissions on July 29, 2023.
 
