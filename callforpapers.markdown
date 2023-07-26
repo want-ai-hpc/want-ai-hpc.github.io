@@ -12,12 +12,12 @@ permalink: /neurips2023/callforpapers
 
 - Camera-ready, poster, and video (optionally) submission: to be announced
 
-- Submision link: to be announced
+- Submission link: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/WANT)
 
 - The site will start accepting submissions on July 29, 2023.
 
 
-We invite researchers and practitioners to submit their  work to the WANT@NeurIPS2023, which aims to explore cutting-edge advancements in neural network training and address the challenges associated with training models at scale as well as under limited resources.
+We invite researchers and practitioners to submit their  work to the **WANT@NeurIPS2023**, which aims to explore cutting-edge advancements in neural network training and address the challenges associated with training models at scale as well as under limited resources.
 
 We welcome submissions on the following topics, but not limited to:
 
