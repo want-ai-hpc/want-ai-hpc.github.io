@@ -8,9 +8,9 @@ The unprecedented availability of data, computation and algorithms have enabled 
 and AI for science. However, all of these applications have in common an 
 always-growing scale, which makes training models more difficult. This can be a bottleneck for the advancement of science, both at industry scale and for smaller research teams that may not have access to the same training infrastructure. 
 
-The **Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization** aims to give all 
+The **Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization** aims to give all 
 researchers the tools necessary to train neural networks at scale. It will provide a dynamic and collaborative platform for researchers, practitioners
-to delve into cutting-edge advancements in neural network training. Our proposal focuses on addressing challenges 
+to delve into cutting-edge advancements in neural network training. Our workshop focuses on addressing challenges 
 to enhance computational efficiency, scalability, and resource optimization.
 
 By optimizing the training process, we can accelerate innovation, drive impactful applications in various domains and enable progress in applications such as AI for good and for science. Our workshop will cover topics such as optimization of computations (re-materialization,  tensorized layers), and  parallelization across devices (offloading, different types of parallelisms, pipelining).
