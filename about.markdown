@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: home
 title: About
 permalink: /neurips2023/about/
+redirect_from: 
+    - /
+    - /neurips2023/
 ---
 
 The unprecedented availability of data, computation and algorithms have enabled a new AI revolution, as seen in Transformers and LLMs, diffusion models, etc, resulting in revolutionary applications such as ChatGPT, generative AI 
