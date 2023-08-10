@@ -4,18 +4,77 @@ title: Speakers
 permalink: /neurips2023/speakers
 ---
 
-## Bryan Catanzaro
-NVIDIA
+<style>
+/* * {
+  box-sizing: border-box;
+} */
 
-<img src="{{site.url}}/assets/bryan.jpeg" width="200" height="200" />
+.row {
+  display: flex;
+}
 
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
 
-[Publications](https://scholar.google.com/citations?hl=en&user=UZ6kI2AAAAAJ&view_op=list_works&sortby=pubdate) [Website](https://ctnzr.io/)
+img {
+  border-radius: 50%;
+}
+</style>
 
-<!-- Bryan Catanzaro leads a team finding new ways to use AI to improve projects ranging from
+<div class="row">
+  <div class="column">
+    <img src="{{site.url}}/assets/bryan.jpeg" title="Bryan Catanzaro" width="100%" />
+    <figcaption>
+    <details>
+    <summary>
+    <b>Bryan Catanzaro,</b> <em>NVIDIA</em>
+    </summary>
+    Bryan Catanzaro leads a team finding new ways to use AI to improve projects ranging from
 language understanding to computer graphics and chip design. He is pioneering the training of LMs
 at scale, including through the Megatron project. Bryan’s research at NVIDIA led to the creation of
-cuDNN, and more recently, he helped to lead the team that invented DLSS 2.0. -->
+cuDNN, and more recently, he helped to lead the team that invented DLSS 2.0. <br />
+    <a href="https://scholar.google.com/citations?hl=en&user=UZ6kI2AAAAAJ&view_op=list_works&sortby=pubdate">Publications</a>
+    <a href="https://ctnzr.io/">Website</a>
+    </details>
+</figcaption>
+  </div>
+  <div class="column">
+    <img src="{{site.url}}/assets/bryan.jpeg" title="Bryan Catanzaro" width="100%"  />
+    <figcaption>
+    <details>
+    <summary>
+    <b>Bryan Catanzaro,</b> <em>NVIDIA</em>
+    </summary>
+    Bryan Catanzaro leads a team finding new ways to use AI to improve projects ranging from
+language understanding to computer graphics and chip design. He is pioneering the training of LMs
+at scale, including through the Megatron project. Bryan’s research at NVIDIA led to the creation of
+cuDNN, and more recently, he helped to lead the team that invented DLSS 2.0. <br />
+    <a href="https://scholar.google.com/citations?hl=en&user=UZ6kI2AAAAAJ&view_op=list_works&sortby=pubdate">Publications</a>
+    <a href="https://ctnzr.io/">Website</a>
+    </details>
+</figcaption>
+  </div>
+  <div class="column">
+    <img src="{{site.url}}/assets/bryan.jpeg" title="Bryan Catanzaro" width="100%"  />
+    <figcaption>
+    <details>
+    <summary>
+    <b>Bryan Catanzaro,</b> <em>NVIDIA</em>
+    </summary>
+    Bryan Catanzaro leads a team finding new ways to use AI to improve projects ranging from
+language understanding to computer graphics and chip design. He is pioneering the training of LMs
+at scale, including through the Megatron project. Bryan’s research at NVIDIA led to the creation of
+cuDNN, and more recently, he helped to lead the team that invented DLSS 2.0. <br />
+    <a href="https://scholar.google.com/citations?hl=en&user=UZ6kI2AAAAAJ&view_op=list_works&sortby=pubdate">Publications</a>
+    <a href="https://ctnzr.io/">Website</a>
+    </details>
+</figcaption>
+  </div>
+</div>
+
 
 ## DeepSpeed
 [Website](https://www.deepspeed.ai)
