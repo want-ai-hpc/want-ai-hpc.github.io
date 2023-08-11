@@ -8,11 +8,8 @@
 pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
 
 .site-title::before {
-	content: url("/assets/test2.svg");
+	content: url("/assets/want_logo2.png");
 	display: inline-block;
 	position: relative;
-	width: 5px;
-	top: 5px;
-    // margin-right: 50px;
-    left: -230px;
+	left: -10px
 }
