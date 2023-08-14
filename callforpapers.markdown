@@ -14,7 +14,7 @@ We invite researchers and practitioners to submit their  work to the **WANT@Neur
 
 - Camera-ready, poster, and video (optionally) submission: to be announced
 
-- Submission link: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/WANT)
+- Submission link: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/WANT) (double-blind review process)
 
 <!-- - The site will start accepting submissions on August 9, 2023. -->
 
