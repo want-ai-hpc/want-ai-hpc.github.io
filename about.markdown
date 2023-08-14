@@ -1,15 +1,16 @@
 ---
 layout: home
-title: Workshop on Advancing Neural Network Training (WANT)
+title: About
 permalink: /neurips2023/home
 redirect_from: 
     - /
     - /neurips2023/
+    - /neurips2023/about
 ---
 
 The **Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization** will give all researchers the tools necessary to train neural networks at scale. It will provide an interactive platform for researchers and practitioners to delve into the latest advancements in neural network training. Our workshop focuses on practically addressing challenges to enhance computational efficiency, scalability, and resource optimization.
 
-## About
+<!-- ## About -->
 
 The unprecedented availability of data, computation and algorithms have enabled a new AI revolution, as seen in Transformers and LLMs, diffusion models, etc, resulting in revolutionary applications such as ChatGPT, generative AI and AI for science. However, all of these applications have in common an always-growing scale, which makes training models more difficult. This can be a bottleneck for the advancement of science, both at industry scale and for smaller research teams that may not have access to the same training infrastructure.
 
