@@ -1,6 +1,7 @@
 ---
 layout: home
 title: About
+list_title: 'News'
 permalink: /neurips2023/home
 redirect_from: 
     - /
