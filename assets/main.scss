@@ -6,17 +6,6 @@
 
 // Use grey background for code
 pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
-
-// .site-title::before {
-// 	content: url("/assets/ai-wants-hpc_logo.png");
-// 	display: inline-block;
-// 	position: relative;
-// 	width: 5px;
-// 	// height: 1%
-// 	top: 20px;
-	// left: -150px
-// }
-
  
 .site-title::before {
     background-image: url("/assets/ai-wants-hpc_logo.png");
