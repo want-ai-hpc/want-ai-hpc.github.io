@@ -2,11 +2,11 @@
 layout: home
 title: ""
 list_title: 'News'
-permalink: /neurips2023/home
+permalink: /
 redirect_from: 
-    - /
     - /neurips2023/
     - /neurips2023/about/
+    - /neurips2023/home
 ---
 <h1 style="text-align: center;">Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization</h1>
 

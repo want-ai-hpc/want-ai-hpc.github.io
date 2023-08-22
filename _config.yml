@@ -26,7 +26,7 @@ title_footer: "Workshop on Advancing Neural Network Training (WANT @ NeurIPS 202
 email: want.ai.hpc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Join HPC and AI experts to learn how to train neural networks at an unprecedented 
-  scale with your existing infrastructure. #WANT #AI #HPC #NeurIPS2023 
+  scale with your existing infrastructure! #AI #WANT #HPC #NeurIPS2023 #EfficientTraining
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://want-ai-hpc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
