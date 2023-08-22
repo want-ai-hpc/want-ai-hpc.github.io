@@ -4,27 +4,23 @@
 
 @import "minima";
 
+// <div id="header">
+// <u><h1 style="font-family:sans-serif;padding-left:50px; text-align:center">Search Engines</h1><u>
+// <u><h1 style="font-family:sans-serif;text-align:center">{{ site.title }}</h1><u>
+// </div>
+
 // Use grey background for code
 pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
 
-
 .site-title::before {
-    background-image: url("/assets/ai-wants-hpc_logo.png");
-    background-size: 240px 180px;
+    background-image: url("/assets/ai-wants-hpc_logo2.png");
+    background-size: 500px 147px;
 	position: relative;
     display: inline-block;
-    width: 240px; 
-    height: 180px;
+    width: 500px; 
+    height: 147px;
     content:"";
-    margin-right: -240px;
-    margin-bottom: -130px;
-    left: -280px;
+    left: -100px;
+    margin-left: 250px;
 }
 
-.site-title::after {
-    background-size: 240px 0px;
-    display: inline-block;
-    width: 240px; 
-    height: 0px;
-    content:"";
-}
