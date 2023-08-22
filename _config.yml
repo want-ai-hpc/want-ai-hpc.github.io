@@ -20,7 +20,8 @@
 
 # title: Workshop on Advancing Neural Network Training @ NeurIPS 2023
 # title: "Computational Efficiency, Scalability, and Resource Optimization"
-title: "Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization"
+# title: "Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization"
+title: ""
 title_footer: "Workshop on Advancing Neural Network Training (WANT @ NeurIPS 2023): Computational Efficiency, Scalability, and Resource Optimization"
 email: want.ai.hpc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
