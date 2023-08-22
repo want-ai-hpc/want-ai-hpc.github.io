@@ -13,10 +13,23 @@ pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
     background-size: 650px 190px;
 	position: relative;
     display: inline-block;
-    width: 650px; 
+    width: 650px;
     height: 190px;
     content:"";
     // left: -50px;
     // margin-left: 50px;
 }
 
+
+// Media query for mobile view
+@media screen and (max-width: 768px) {
+    .site-title::before {
+		background-image: url("/assets/ai-wants-hpc_logo2.png");
+		// background-size: 500px 147px;
+        background-size: 300px 88px; // Adjust the size for mobile
+		position: relative;
+		display: inline-block;
+        width: 300px;
+        height: 88px;
+    }
+}
