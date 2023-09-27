@@ -112,7 +112,7 @@ summary {
     <figcaption>
     <details>
     <summary>
-    <b>Rocco Sedona</b> <br /><em> University of Iceland, Jülich Supercomputing Centre</em>
+    <b>Rocco Sedona</b> <br /><em> Jülich Supercomputing Centre, Forschunszentrum Jülich</em>
     </summary>
     <a href="https://scholar.google.com/citations?hl=de&user=nuFMOpYAAAAJ&view_op=list_works&sortby=pubdate">Publications</a>
     <!-- <a href="">Website</a> -->
