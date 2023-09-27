@@ -104,3 +104,19 @@ summary {
     </figcaption>
   </div>
 </div>
+
+
+<div class="row">
+  <div class="column">
+    <img src="{{site.url}}/assets/roccoS.png" title="Rocco Sedona" width="33%" height="80%"/>
+    <figcaption>
+    <details>
+    <summary>
+    <b>Rocco Sedona</b> <br /><em> University of Iceland, Jülich Supercomputing Centre</em>
+    </summary>
+    <a href="https://scholar.google.com/citations?hl=de&user=nuFMOpYAAAAJ&view_op=list_works&sortby=pubdate">Publications</a>
+    <!-- <a href="">Website</a> -->
+    </details>
+    </figcaption>
+  </div>
+</div>

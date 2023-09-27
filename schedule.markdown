@@ -10,7 +10,7 @@ permalink: /neurips2023/schedule
 } */
 </style>
 
-Workshop on Advancing Neural Network Training (WANT) will take place at the official venue of the [NeurIPS 2023 conference](https://neurips.cc) in **New Orleans, USA** on **December 16, 2023**.
+Workshop on Advancing Neural Network Training (WANT) will take place at the official venue of the [NeurIPS 2023 conference](https://neurips.cc) in **New Orleans, USA** on **December 16, 2023**. There will be streaming for online participants. 
 
 | **Morning**   | 
 |:-----------------------------------------------------------------:|
