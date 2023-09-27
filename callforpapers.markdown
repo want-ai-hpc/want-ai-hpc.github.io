@@ -27,6 +27,7 @@ We invite researchers and practitioners to submit their  work to the **WANT@Neur
 
 We welcome submissions on the following topics, but not limited to:
 
+- Training for large scale models
 - Model/tensor/data and other types of parallelisms
 - Pipelining
 - Communication optimization
