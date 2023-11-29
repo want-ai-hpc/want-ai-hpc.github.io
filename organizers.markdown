@@ -27,7 +27,7 @@ summary {
 
 <div class="row">
   <div class="column">
-    <img src="{{site.url}}/assets/juliaG.jpeg" title="Julia Gusak" width="100%" />
+    <img src="{{site.url}}/assets/juliaG.jpeg" title="Julia Gusak" width="63%" />
     <figcaption>
     <details>
     <summary>
@@ -40,7 +40,7 @@ summary {
   </div>
 
   <div class="column">
-    <img src="{{site.url}}/assets/jeanK.jpeg" title="Jean Kossaifi " width="100%" />
+    <img src="{{site.url}}/assets/jeanK.jpeg" title="Jean Kossaifi " width="63%" />
     <figcaption>
     <details>
     <summary>
@@ -51,9 +51,11 @@ summary {
     </details>
     </figcaption>
   </div>
+</div>
 
+<div class="row">
   <div class="column">
-    <img src="{{site.url}}/assets/Alena.jpg" title="Alena Shilova" width="100%" />
+    <img src="{{site.url}}/assets/Alena.jpg" title="Alena Shilova" width="63%" />
     <figcaption>
     <details>
     <summary>
@@ -64,11 +66,24 @@ summary {
     </details>
     </figcaption>
   </div>
+
+  <div class="column">
+    <img src="{{site.url}}/assets/roccoS.png" title="Rocco Sedona" width="63%"/>
+    <figcaption>
+    <details>
+    <summary>
+    <b>Rocco Sedona</b> <br /><em> Jülich Supercomputing Centre, Forschunszentrum Jülich</em>
+    </summary>
+    <a href="https://scholar.google.com/citations?hl=de&user=nuFMOpYAAAAJ&view_op=list_works&sortby=pubdate">Publications</a>
+    <!-- <a href="">Website</a> -->
+    </details>
+    </figcaption>
+  </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <img src="{{site.url}}/assets/cristiana.gif" title="Cristiana Bentes" width="100%" />
+    <img src="{{site.url}}/assets/cristiana.gif" title="Cristiana Bentes" width="63%" />
     <figcaption>
     <details>
     <summary>
@@ -79,8 +94,9 @@ summary {
     </details>
     </figcaption>
   </div>
+
   <div class="column">
-    <img src="{{site.url}}/assets/Anima.jpeg" title="Anima Anandkumar" width="100%" />
+    <img src="{{site.url}}/assets/Anima.jpeg" title="Anima Anandkumar" width="63%" />
     <figcaption>
     <details>
     <summary>
@@ -91,30 +107,17 @@ summary {
     </details>
     </figcaption>
   </div>
+</div>
+
+<div class="row">
   <div class="column">
-    <img src="{{site.url}}/assets/OlivierB.jpeg" title="Olivier Beaumont" width="100%" />
+    <img src="{{site.url}}/assets/OlivierB.jpeg" title="Olivier Beaumont" width="33%" height="80%" />
     <figcaption>
     <details>
     <summary>
     <b>Olivier Beaumont</b> <br /><em>INRIA</em>
     </summary>
     <a href="https://scholar.google.com/citations?hl=en&user=XT007NgAAAAJ">Publications</a>
-    <!-- <a href="">Website</a> -->
-    </details>
-    </figcaption>
-  </div>
-</div>
-
-
-<div class="row">
-  <div class="column">
-    <img src="{{site.url}}/assets/roccoS.png" title="Rocco Sedona" width="33%" height="80%"/>
-    <figcaption>
-    <details>
-    <summary>
-    <b>Rocco Sedona</b> <br /><em> Jülich Supercomputing Centre, Forschunszentrum Jülich</em>
-    </summary>
-    <a href="https://scholar.google.com/citations?hl=de&user=nuFMOpYAAAAJ&view_op=list_works&sortby=pubdate">Publications</a>
     <!-- <a href="">Website</a> -->
     </details>
     </figcaption>
