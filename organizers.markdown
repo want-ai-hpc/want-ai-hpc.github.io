@@ -16,12 +16,26 @@ permalink: /neurips2023/organizers
   text-align: center;
 }
 
+
+/* .columns {
+  float: left;
+  position: relative;
+  margin-right: 20px;
+} */
+
+
 img {
   border-radius: 50%;
 }
 
 summary {
     font-size: large
+}
+
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
 }
 </style>
 
@@ -60,7 +74,7 @@ summary {
     <b>Alena Shilova</b> <br /><em>INRIA</em>
     </summary>
     <a href="https://scholar.google.com/citations?hl=en&user=hiHDpfgAAAAJ&view_op=list_works">Publications</a>
-    <!-- <a href="">Website</a> -->
+    <a href="https://aleshi94.github.io/home/">Website</a>
     </details>
     </figcaption>
   </div>
@@ -120,3 +134,38 @@ summary {
     </figcaption>
   </div>
 </div>
+
+
+## Area Chairs
+
+- Adrian Bulat (Researcher, Samsung AI Cambridge & Technical University of Iasi)
+- Boris Bonev (Research Scientist, NVIDIA)
+- Maxim Panov (Assistant Professor, Mohamed bin Zayed University of Artificial Intelligence)
+- Riad Akrour (Research Scientist, INRIA)
+- Saurav Muralidharan (Researcher, NVIDIA)
+- Tao Lin (Assistant Professor, Westlake University)
+
+
+
+
+## Reviewers
+
+<!-- {% assign row = site.data.authors[0] %}
+{{ row | inspect }} -->
+
+<!-- <table>
+  {% for row in site.data.filtered %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table> -->
+
+<ul>
+{% for elem in site.data.filtered %}
+  <li>
+      {{ elem.name }} ({{ elem.company }})
+  </li>
+{% endfor %}
+</ul>
