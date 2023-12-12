@@ -47,9 +47,7 @@ summary {
     <summary>
     <b>Lionel Eyraud-Dubois</b> <br /> <em>INRIA</em>
     </summary>
-    <!-- Researcher at Inria, University of Bordeaux; Expert
-in linear algebra, efficient training, re-materialization, offloading; creator and maintainer of two
-software packages for memory-efficient training Rotor and Rockmate -->
+    Lionel Eyraud-Dubois received his PhD degree in computer science from the Université de Grenoble. He is currently a full-time researcher with Inria Bordeaux Sud-Ouest in the Topal team. His main research interests encompass combinatorial optimization and operation research techniques for scheduling and resource allocation problems in high performance computer systems, including for optimizing the training and inference processes of Deep Neural Networks.
     <a href="https://dblp.org/pid/e/LionelEyraudDubois.html">Publications</a>
     <a href="https://www.labri.fr/profil/Eyraud-dubois_ID1188202150">Website</a>
     </details>
