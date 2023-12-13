@@ -46,7 +46,7 @@ Invited talk <br> **Rematerialization algorithms for Memory-efficient learning**
 |:-----------------------------------------------------------------:|
 | 08:15 - 08:45 | Poster placement                             | 
 | 08:45 - 09:00 | Welcome speech from Organizers                                 | 
-| 09:00 - 09:30 | Invited talk + Q&A (Ana Gainaru)                             | 
+| 09:00 - 09:30 | Invited talk <br> **A data-centric view on workflows that couple HPC with large-scale models** <br> *Ana Gainaru*                             | 
 | 09:30 - 10:00 | Invited talk <br> **Rematerialization algorithms for Memory-efficient learning** <br> *Lionel Eyraud-Dubois*                      | 
 | 10:00 - 10:30 | Coffee break                                  | 
 | 10:30 - 11:00| Invited talk <br> **Navigating the Landscape of Enormous AI Model Training** <br> *Yang You*                        | 
