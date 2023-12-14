@@ -7,7 +7,15 @@ redirect_from:
     - /neurips2023/about/
     - /neurips2023/home/
 ---
+👉 [WANT poll](https://forms.gle/cJHmvtZvdbMuHzxh9) - Tell us your insights and thought about efficient training of neural networks! Your vote does matter! 
+
+🎥 [WANT page at NeurIPS.cc](https://nips.cc/virtual/2023/workshop/66493) - Steaming and virtual chat are here!
+
+📜 [WANT page at OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/WANT) - Accepted papers (Orals & Posters) are here!
+
+
 <h1 style="text-align: center;">Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization</h1>
+
 
 The **Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization** will give all researchers the tools necessary to train neural networks at scale. It will provide an interactive platform for researchers and practitioners to delve into the latest advancements in neural network training. Our workshop focuses on practically addressing challenges to enhance computational efficiency, scalability, and resource optimization.
 
