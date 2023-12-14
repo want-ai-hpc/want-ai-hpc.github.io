@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Tell us how you train NNs! Your vote does matter!"
+date:   2023-12-07 23:59:00 +0200
+categories: jekyll update
+---
+
+What tips and tricks do you use to train neural networks? Please, share your thoughts and insights by filling out the [WANT poll](https://forms.gle/cJHmvtZvdbMuHzxh9)! Stats will be discussed during the workshop on December 16 and posted on the website!
