@@ -13,6 +13,8 @@ permalink: /neurips2023/schedule
 
 📜 [WANT page at OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/WANT) - Accepted papers (Orals & Posters) are here!
 
+📅 [WANT page at Whova](https://whova.com/portal/webapp/cnips_202312/Agenda/3512322) - Add to your NeurIPS agenda!
+
 Workshop on Advancing Neural Network Training (WANT) will take place on **December 16, 2023**
 - **offline**: at the venue of the [NeurIPS 2023 conference](https://neurips.cc) in New Orleans, USA, **room 243-245**,
 - **online**: with [streaming from the venue](https://neurips.cc/virtual/2023/workshop/66493) 🎥, poster session and networking in Gather Town 🏰.
