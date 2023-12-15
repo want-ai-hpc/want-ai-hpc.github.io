@@ -101,14 +101,15 @@ summary {
   </div> 
   
   <div class="column">
-    <img src="{{site.url}}/assets/naveen.jpeg" title=" Naveen Rao" width="63%" />
+    <img src="{{site.url}}/assets/johnathan.jpeg" title=" Naveen Rao" width="63%" />
     <figcaption>
     <details>
     <summary>
-    <b>Naveen Rao</b><br /><em>Databricks, ex-MosaicML</em>
+    <b>Johnathan Frankle</b><br /><em>Databricks, ex-MosaicML</em>
     </summary>
-    <!-- <a href="">Publications</a> -->
-    <a href="https://www.linkedin.com/in/naveen-rao-bba5b01/">Website</a>
+    Jonathan Frankle is Chief Scientist (Neural Networks) at Databricks, where he leads the research team toward the goal of developing more efficient algorithms for training neural networks. He arrived via Databricks’ $1.3B acquisition of MosaicML, where he was part of the founding team. He recently completed his PhD at MIT, where he empirically studied deep learning with Prof. Michael Carbin, specifically the properties of sparse networks that allow them to train effectively (his "Lottery Ticket Hypothesis" - ICLR 2019 Best Paper). In addition to his technical work, he is actively involved in policymaking around artificial intelligence. He earned his BSE and MSE in computer science at Princeton and has previously spent time at Google Brain and Facebook AI Research as an intern and Georgetown Law as an Adjunct Professor of Law.
+    <a href="https://scholar.google.com/citations?user=MlLJapIAAAAJ&hl=en">Publications</a>
+    <a href="http://www.jfrankle.com/index.html">Website</a>
     </details>
 </figcaption>
   </div>
