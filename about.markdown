@@ -13,7 +13,7 @@ redirect_from:
 
 📅 [WANT page at Whova](https://whova.com/portal/webapp/cnips_202312/Agenda/3512322) - Add to your NeurIPS agenda!
 
-🎥 [WANT page at NeurIPS.cc](https://nips.cc/virtual/2023/workshop/66493) - Steaming and virtual chat are here!
+🎥 [WANT page at NeurIPS.cc](https://nips.cc/virtual/2023/workshop/66493) - Streaming and virtual chat are here!
 
 
 <h1 style="text-align: center;">Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization</h1>
