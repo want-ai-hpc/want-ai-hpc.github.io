@@ -39,6 +39,8 @@ ul {
 }
 </style>
 
+<!-- ## Organizers/Program Chairs -->
+
 <div class="row">
   <div class="column">
     <img src="{{site.url}}/assets/juliaG.jpeg" title="Julia Gusak" width="63%" />
@@ -125,7 +127,7 @@ ul {
 
 <div class="row">
   <div class="column">
-    <img src="{{site.url}}/assets/OlivierB.jpeg" title="Olivier Beaumont" width="33%" height="80%" />
+    <img src="{{site.url}}/assets/OlivierB.jpeg" title="Olivier Beaumont" width="33%" />
     <figcaption>
     <details>
     <summary>
@@ -133,6 +135,36 @@ ul {
     </summary>
     <a href="https://scholar.google.com/citations?hl=en&user=XT007NgAAAAJ">Publications</a>
     <!-- <a href="">Website</a> -->
+    </details>
+    </figcaption>
+  </div>
+</div>
+
+## Volunteers
+
+<div class="row">
+  <div class="column">
+    <img src="{{site.url}}/assets/Achraf.png" title="Achraf Azize" width="63%" />
+    <figcaption>
+    <details>
+    <summary>
+    <b>Achraf Azize</b> <br /><em>INRIA</em>
+    </summary>
+    <a href="https://scholar.google.com/citations?user=9RKFStAAAAAJ&hl">Publications</a>
+    <a href="https://achraf-azize.github.io/">Website</a>
+    </details>
+    </figcaption>
+  </div>
+
+  <div class="column">
+    <img src="{{site.url}}/assets/Cyrille.jpg" title="Cyrille Kone " width="63%" />
+    <figcaption>
+    <details>
+    <summary>
+    <b>Cyrille Kone</b> <br /><em>INRIA</em>
+    </summary>
+    <a href="https://scholar.google.com/citations?hl=en&user=J0Pr8LgAAAAJ">Publications</a>
+    <a href="https://cyrille-kone.github.io/">Website</a>
     </details>
     </figcaption>
   </div>
