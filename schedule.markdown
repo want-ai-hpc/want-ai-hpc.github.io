@@ -74,7 +74,7 @@ Invited talk <br> **Rematerialization algorithms for Memory-efficient learning**
 | 14:30 - 15:00 | Invited Talk 🎥 <br> **The MosaicML Approach to LLM Training** <br> *Johnathan Frankle, Naveen Rao*                           | 
 | 15:00 - 15:30 | Coffee break 🏰                                | 
 | 15:30 - 16:00 | Invited Talk 🎥 <br> **Efficient LLM Training and Inference on GPUs** <br> *Mohammad Shoeybi, Bryan Catanzaro*                           | 
-| 16:00 - 16:50 | Panel Discussion 🎥 <br>  *Yang You, Tunji Ruwase, Natalia Vassilieva, Mohammad Shoeybi, Jean Kossaifi* |
+| 16:00 - 16:50 | Panel Discussion 🎥 <br>  *Ana Gainaru, Lionel Eyraud-Dubois, Tunji Ruwase, Natalia Vassilieva, Mohammad Shoeybi, Jean Kossaifi* |
 | 16:50 - 17:00 | Closing remarks 🎥 |
 | 17:00 - 17:30 | Poster session (offline + Gather Town) 🏰                                | 
 
