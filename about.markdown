@@ -15,6 +15,7 @@ redirect_from:
 
 🎥 [WANT page at NeurIPS.cc](https://nips.cc/virtual/2023/workshop/66493) - Streaming and virtual chat are here!
 
+🏰 [Gather Town](https://app.gather.town/app/Q6Eblds7vNrn4kz4/WANT%20at%20NeurIPS%202023) - Online poster sessions and networking
 
 <h1 style="text-align: center;">Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization</h1>
 
