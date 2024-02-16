@@ -13,7 +13,7 @@ redirect_from:
 
 📅 [WANT page at Whova](https://whova.com/portal/webapp/cnips_202312/Agenda/3512322) - Add to your NeurIPS agenda!
 
-🎥 [WANT page at NeurIPS.cc](https://nips.cc/virtual/2023/workshop/66493) - Streaming and virtual chat are here!
+🎥 [WANT page at NeurIPS.cc](https://nips.cc/virtual/2023/workshop/66493) - Streaming and virtual chat are here! (now open to everyone)
 
 🏰 [Gather Town](https://app.gather.town/app/Q6Eblds7vNrn4kz4/WANT%20at%20NeurIPS%202023) - Online poster sessions and networking
 
