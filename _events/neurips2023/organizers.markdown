@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Organizers
+category: neurips2023
 permalink: /neurips2023/organizers
 ---
+
+{% include navigation.html %}
+
 
 <style>
 .row {

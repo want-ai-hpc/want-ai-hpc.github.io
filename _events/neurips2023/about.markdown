@@ -1,12 +1,16 @@
 ---
 layout: default
 title: "About"
-permalink: /
+category: neurips2023
+# permalink: /
 redirect_from: 
     - /neurips2023/
     - /neurips2023/about/
     - /neurips2023/home/
 ---
+
+{% include navigation.html %}
+
 👉 [WANT poll](https://forms.gle/cJHmvtZvdbMuHzxh9) - Tell us your insights and thought about efficient training of neural networks! Your vote does matter! 
 
 📜 [WANT page at OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/WANT) - Accepted papers (Orals & Posters) are here!
