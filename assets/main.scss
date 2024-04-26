@@ -25,7 +25,8 @@ pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
 // Media query for mobile view
 @media screen and (max-width: 768px) {
     .site-title::before {
-		background-image: url("/assets/ai-wants-hpc_logo2.png");
+        background-image: url("/assets/ai-hpc-icml2024.png");
+		// background-image: url("/assets/ai-wants-hpc_logo2.png");
 		// background-size: 500px 147px;
         background-size: 300px 88px; // Adjust the size for mobile
 		position: relative;
