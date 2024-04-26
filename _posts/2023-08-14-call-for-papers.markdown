@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for papers is open"
+title:  "Call for WANT@NeurIPS'23 papers is open"
 date:   2023-08-14 20:00:00 +0200
 categories: jekyll update
 ---

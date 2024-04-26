@@ -22,7 +22,7 @@ We invite researchers and practitioners to submit their  work to the **WANT@ICML
 
 <!-- - The site will start accepting submissions on August 9, 2023. -->
 
-- Submission format: **6-8 pages** plus unlimited references and appendix. 
+- Submission format: up to **8 pages**, plus unlimited references and appendix. 
 <!-- Submitted `.pdf` file should satisfy [formatting templates](https://github.com/want-ai-hpc/want_neurips_2023_templates) (`.tex`, `.sty`) -->
 
 - Submission to the workshop is non-archival (i.e. double submission is allowed, accepted papers will be posted on the workshop website) 
@@ -33,6 +33,7 @@ We invite researchers and practitioners to submit their  work to the **WANT@ICML
 We welcome submissions on the following topics, but not limited to:
 
 - Training for large scale models
+- Efficient training for different applications (NLP/CV/Climate/Medicine/Finance/etc.)
 - Model/tensor/data and other types of parallelisms
 - Pipelining
 - Communication optimization

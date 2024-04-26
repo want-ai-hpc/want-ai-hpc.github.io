@@ -21,7 +21,7 @@ redirect_from:
 
 🏰 [Gather Town](https://app.gather.town/app/Q6Eblds7vNrn4kz4/WANT%20at%20NeurIPS%202023) - Online poster sessions and networking
 
-<h1 style="text-align: center;">Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization</h1>
+<h1 style="text-align: center;">NeurIPS'23 Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization</h1>
 
 
 The **Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization** will give all researchers the tools necessary to train neural networks at scale. It will provide an interactive platform for researchers and practitioners to delve into the latest advancements in neural network training. Our workshop focuses on practically addressing challenges to enhance computational efficiency, scalability, and resource optimization.
