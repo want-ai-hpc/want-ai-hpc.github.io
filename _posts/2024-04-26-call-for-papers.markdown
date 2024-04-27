@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for WANT@ICML'24 papers is open"
-date:   2024-02-26 01:00:00 +0200
+date:   2024-04-26 01:00:00 +0200
 categories: jekyll update
 ---
 
