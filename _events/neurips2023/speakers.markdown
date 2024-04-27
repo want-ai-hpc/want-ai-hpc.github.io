@@ -5,9 +5,6 @@ category: neurips2023
 permalink: /neurips2023/speakers
 ---
 
-{% include navigation.html %}
-
-
 <style>
 .row {
   display: flex;

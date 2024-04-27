@@ -3,13 +3,12 @@ layout: default
 title: "About"
 category: icml2024
 # permalink: /
-redirect_from: 
+redirect_from:
+    - /
     - /icml2024/
     - /icml2024/about/
     - /icml2024/home/
 ---
-
-{% include navigation.html %}
 
 <h1 style="text-align: center;"> ICML'24 Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization</h1>
 

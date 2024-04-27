@@ -5,9 +5,6 @@ category: neurips2023
 permalink: /neurips2023/callforpapers
 ---
 
-{% include navigation.html %}
-
-
 We invite researchers and practitioners to submit their  work to the **WANT@NeurIPS2023**, which aims to explore cutting-edge advancements in neural network training and address the challenges associated with training models at scale as well as under limited resources.
 
 <!-- - Abstract submission deadline: **September 22 (AOE), 2023** -->

@@ -6,4 +6,3 @@ list_title: " "
 permalink: /icml2024/news/
 ---
 
-{% include navigation.html %}
