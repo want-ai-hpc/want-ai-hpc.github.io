@@ -18,15 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Workshop on Advancing Neural Network Training @ NeurIPS 2023
-# title: "Computational Efficiency, Scalability, and Resource Optimization"
-# title: "Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization"
 title: ""
-title_footer: "Workshop on Advancing Neural Network Training (WANT @ NeurIPS 2023): Computational Efficiency, Scalability, and Resource Optimization"
+title_footer: "Workshop on Advancing Neural Network Training (WANT @ ICML 2024): Computational Efficiency, Scalability, and Resource Optimization"
 email: want.ai.hpc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Join HPC and AI experts to learn how to train neural networks at an unprecedented 
-  scale with your existing infrastructure! #AI #WANT #HPC #NeurIPS2023 #EfficientTraining
+  scale with your existing infrastructure! #AI #WANT #HPC #ICML2024 #EfficientTraining
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://want-ai-hpc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -37,6 +34,15 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+
+# include:
+#  - _events
+
+
+collections:
+  events:
+    output: true
+    permalink: /:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

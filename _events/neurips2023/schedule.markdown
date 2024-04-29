@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Schedule
+category: neurips2023
 permalink: /neurips2023/schedule
 ---
+
 <style>
 /* div {
     text-align: center;

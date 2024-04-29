@@ -7,8 +7,14 @@
 // Use grey background for code
 pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
 
-.site-title::before {
-    background-image: url("/assets/ai-wants-hpc_logo3.png");
+.site-title {
+    &.header-icml2024 {
+        background-image: url("/assets/ai-hpc-icml2024.png");
+    }
+
+    &.header-neurips2023 {
+        background-image: url("/assets/ai-wants-hpc_logo3.png");
+    }
     // background-size: 500px 147px;
     background-size: 650px 190px;
 	position: relative;
@@ -24,12 +30,35 @@ pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
 // Media query for mobile view
 @media screen and (max-width: 768px) {
     .site-title::before {
-		background-image: url("/assets/ai-wants-hpc_logo2.png");
+        background-image: url("/assets/ai-hpc-icml2024.png");
+		// background-image: url("/assets/ai-wants-hpc_logo2.png");
 		// background-size: 500px 147px;
         background-size: 300px 88px; // Adjust the size for mobile
 		position: relative;
 		display: inline-block;
         width: 300px;
         height: 88px;
+    }
+}
+
+.site-nav {
+    width: 100%;
+    float:right;
+    text-align: right;
+}
+
+#yearSelector {
+    margin-right: 20px;
+
+    padding: 8px 16px; /* Padding for a better touch area and aesthetics */
+    border: 1px solid #ccc; /* Light grey border */
+    border-radius: 4px; /* Slightly rounded corners */
+    background-color: #fff; /* White background */
+    box-sizing: border-box; /* Includes padding and border in the element's total width and height */
+    cursor: pointer; /* Pointer cursor on hover */
+
+    &:hover, &:focus {
+        border-color: #999; /* Darker border on hover/focus */
+        outline: none; /* Remove default focus outline */
     }
 }

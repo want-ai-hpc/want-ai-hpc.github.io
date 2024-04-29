@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Speakers
+category: neurips2023
 permalink: /neurips2023/speakers
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Call for Papers
+category: neurips2023
 permalink: /neurips2023/callforpapers
 ---
 

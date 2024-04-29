@@ -1,6 +1,8 @@
 ---
 layout: home
 title: "News"
+category: icml2024
 list_title: " "
-permalink: /neurips2023/news/
+permalink: /icml2024/news/
 ---
+

@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Organizers
-permalink: /neurips2023/organizers
+category: icml2024
+permalink: /icml2024/organizers
 ---
+
+
 
 <style>
 .row {
@@ -112,20 +115,20 @@ ul {
   </div>
 
   <div class="column">
-    <img src="{{site.url}}/assets/Anima.jpeg" title="Anima Anandkumar" width="63%" />
+    <img src="{{site.url}}/assets/jankautz.jpeg" title="Jan Kautz" width="63%" />
     <figcaption>
     <details>
     <summary>
-    <b>Anima Anandkumar</b> <br /><em>NVIDIA, Caltech</em>
+    <b>Jan Kautz</b> <br /><em>NVIDIA</em>
     </summary>
-    <a href="https://scholar.google.com/citations?user=bEcLezcAAAAJ&hl=en&oi=ao">Publications</a>
-    <a href="http://tensorlab.cms.caltech.edu/users/anima/">Website</a>
+    <a href="https://scholar.google.com/citations?user=P9FclNEAAAAJ&hl=en">Publications</a>
+    <a href="https://jankautz.com/">Website</a>
     </details>
     </figcaption>
   </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
   <div class="column">
     <img src="{{site.url}}/assets/OlivierB.jpeg" title="Olivier Beaumont" width="33%" />
     <figcaption>
@@ -134,72 +137,7 @@ ul {
     <b>Olivier Beaumont</b> <br /><em>INRIA</em>
     </summary>
     <a href="https://scholar.google.com/citations?hl=en&user=XT007NgAAAAJ">Publications</a>
-    <!-- <a href="">Website</a> -->
     </details>
     </figcaption>
   </div>
-</div>
-
-## Volunteers
-
-<div class="row">
-  <div class="column">
-    <img src="{{site.url}}/assets/Achraf.png" title="Achraf Azize" width="63%" />
-    <figcaption>
-    <details>
-    <summary>
-    <b>Achraf Azize</b> <br /><em>INRIA</em>
-    </summary>
-    <a href="https://scholar.google.com/citations?user=9RKFStAAAAAJ&hl">Publications</a>
-    <a href="https://achraf-azize.github.io/">Website</a>
-    </details>
-    </figcaption>
-  </div>
-
-  <div class="column">
-    <img src="{{site.url}}/assets/Cyrille.jpg" title="Cyrille Kone " width="63%" />
-    <figcaption>
-    <details>
-    <summary>
-    <b>Cyrille Kone</b> <br /><em>INRIA</em>
-    </summary>
-    <a href="https://scholar.google.com/citations?hl=en&user=J0Pr8LgAAAAJ">Publications</a>
-    <a href="https://cyrille-kone.github.io/">Website</a>
-    </details>
-    </figcaption>
-  </div>
-</div>
-
-## Area Chairs
-
-- Adrian Bulat (Researcher, Samsung AI Cambridge & Technical University of Iasi)
-- Boris Bonev (Research Scientist, NVIDIA)
-- Maxim Panov (Assistant Professor, Mohamed bin Zayed University of Artificial Intelligence)
-- Riad Akrour (Research Scientist, INRIA)
-- Saurav Muralidharan (Researcher, NVIDIA)
-- Tao Lin (Assistant Professor, Westlake University)
-
-
-
-
-## Reviewers
-
-<!-- {% assign row = site.data.authors[0] %}
-{{ row | inspect }} -->
-
-<!-- <table>
-  {% for row in site.data.filtered %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
-</table> -->
-
-<ul>
-{% for elem in site.data.filtered %}
-  <li>
-      {{ elem.name }} ({{ elem.company }})
-  </li>
-{% endfor %}
-</ul>
+</div> -->
