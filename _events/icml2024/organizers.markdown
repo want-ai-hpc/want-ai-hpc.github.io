@@ -128,6 +128,20 @@ ul {
   </div>
 </div>
 
+<div class="row">
+  <div class="column">
+    <img src="{{site.url}}/assets/AdrienAM.jpg" title="Adrien Aguila--Multner" width="33%" />
+    <figcaption>
+    <details>
+    <summary>
+    <b>Adrien Aguila--Multner</b> <br /><em>INRIA</em>
+    </summary>
+    <a href="https://github.com/Adrien-AM">GitHub</a>
+    </details>
+    </figcaption>
+  </div>
+</div>
+
 <!-- <div class="row">
   <div class="column">
     <img src="{{site.url}}/assets/OlivierB.jpeg" title="Olivier Beaumont" width="33%" />
