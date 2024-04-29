@@ -5,7 +5,4 @@ category: icml2024
 permalink: /icml2024/schedule
 ---
 
-{% include navigation.html %}
-
-
 To be announced!

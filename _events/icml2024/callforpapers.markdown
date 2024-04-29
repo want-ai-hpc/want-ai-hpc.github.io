@@ -5,8 +5,6 @@ category: icml2024
 permalink: /icml2024/callforpapers
 ---
 
-{% include navigation.html %}
-
 
 We invite researchers and practitioners to submit their  work to the **WANT@ICML2024**, which aims to explore cutting-edge advancements in neural network training and address the challenges associated with training models at scale as well as under limited resources.
 

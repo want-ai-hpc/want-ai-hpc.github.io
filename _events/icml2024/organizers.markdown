@@ -5,7 +5,6 @@ category: icml2024
 permalink: /icml2024/organizers
 ---
 
-{% include navigation.html %}
 
 
 <style>
