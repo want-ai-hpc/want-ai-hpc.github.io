@@ -1,5 +1,10 @@
 <header class="site-header">
 
+  <!-- Logo Container -->
+<!-- <div id="logoContainer">
+    <img id="siteLogo" src="{{ site.url }}/assets/ai-hpc-icml2024.png" alt="Site Logo">
+</div> -->
+
 <!-- Year Selector Component -->
 <select id="yearSelector">
   <option value="icml2024">ICML 2024</option>
@@ -15,6 +20,7 @@
 
       // Redirect to the current page with the selected year as a query parameter
       window.location.href = updateQueryStringParameter(baseUrl, selectedYear);
+      // updateSiteLogo(selectedYear);
   });
 
 
@@ -26,12 +32,28 @@
     return uri + '/' + value;
 };
 
+
+  // Function to update the site logo based on the selected year
+//   function updateSiteLogo(year) {
+//   var logoImg = document.getElementById('siteLogo');
+  
+//   // Construct the URL/path to the logo image based on the selected year
+//   var logoUrl = "{{ site.url }}/assets/ai-hpc-" + year + ".png"; // Adjust the path and file extension as needed
+  
+//   // Update the src attribute of the logo image
+//   logoImg.src = logoUrl;
+// };
+
+
+
   // Set the selected option in the yearSelector dropdown based on the current page's year
   document.addEventListener("DOMContentLoaded", function() {
     var words = window.location.pathname.split('/'); // Get the current page's year
     var currentYear = words[1];
     document.getElementById('yearSelector').value = currentYear; // Set the selected option in the dropdown
   });
+
+
 
 </script>
 

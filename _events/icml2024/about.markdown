@@ -3,7 +3,8 @@ layout: default
 title: "About"
 category: icml2024
 # permalink: /
-redirect_from: 
+redirect_from:
+    - /
     - /icml2024/
     - /icml2024/about/
     - /icml2024/home/
