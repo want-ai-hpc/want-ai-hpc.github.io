@@ -15,30 +15,14 @@ pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
     &.header-neurips2023 {
         background-image: url("/assets/ai-wants-hpc_logo3.png");
     }
-    // background-size: 500px 147px;
-    background-size: 650px 190px;
+    background-size: contain;
+    background-repeat: no-repeat;
 	position: relative;
-    display: inline-block;
-    width: 650px;
-    height: 190px;
+    width: 700px;
+    height: 200px;
     content:"";
     // left: -50px;
     // margin-left: 50px;
-}
-
-
-// Media query for mobile view
-@media screen and (max-width: 768px) {
-    .site-title::before {
-        background-image: url("/assets/ai-hpc-icml2024.png");
-		// background-image: url("/assets/ai-wants-hpc_logo2.png");
-		// background-size: 500px 147px;
-        background-size: 300px 88px; // Adjust the size for mobile
-		position: relative;
-		display: inline-block;
-        width: 300px;
-        height: 88px;
-    }
 }
 
 .site-nav {
@@ -60,5 +44,29 @@ pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
     &:hover, &:focus {
         border-color: #999; /* Darker border on hover/focus */
         outline: none; /* Remove default focus outline */
+    }
+}
+
+// Media query for mobile view
+@media screen and (max-width: 768px) {
+    .site-title::before {
+        background-image: url("/assets/ai-hpc-icml2024.png");
+    }
+
+    .site-title {
+        width: 80vw;
+        height: 10vh;
+        background-size: contain;
+    }
+
+    .site-nav {
+        width: auto;
+        &::after {
+            width: 100%;
+        }
+    }
+
+    #yearSelector {
+        margin-right: 1vw;
     }
 }
