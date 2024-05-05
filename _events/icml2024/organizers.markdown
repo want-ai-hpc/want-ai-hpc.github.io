@@ -101,6 +101,19 @@ ul {
 </div>
 
 <div class="row">
+   <div class="column">
+    <img src="{{site.url}}/assets/ana.jpeg" title=" Ana Gainaru" width="63%" />
+    <figcaption>
+    <details>
+    <summary>
+    <b> Ana Gainaru</b> <br /> <em>Oak Ridge National Laboratory</em>
+    </summary>
+    <a href="https://scholar.google.com/citations?hl=en&user=YR3x8gkAAAAJ&view_op=list_works&sortby=pubdate">Publications</a>
+    <a href="http://ana-gainaru.com/">Website</a>
+    </details>
+    </figcaption>
+  </div> 
+
   <div class="column">
     <img src="{{site.url}}/assets/cristiana.gif" title="Cristiana Bentes" width="63%" />
     <figcaption>
@@ -113,9 +126,11 @@ ul {
     </details>
     </figcaption>
   </div>
-
+</div>
+ 
+ <div class="row">
   <div class="column">
-    <img src="{{site.url}}/assets/jankautz.jpeg" title="Jan Kautz" width="63%" />
+    <img src="{{site.url}}/assets/jankautz.jpeg" title="Jan Kautz" width="33%" />
     <figcaption>
     <details>
     <summary>
@@ -127,7 +142,6 @@ ul {
     </figcaption>
   </div>
 </div>
- 
 ## Volunteers
 
 <div class="row">
