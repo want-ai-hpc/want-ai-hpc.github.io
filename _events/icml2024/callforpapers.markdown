@@ -10,7 +10,7 @@ We invite researchers and practitioners to submit their  work to the **WANT@ICML
 
 <!-- - Abstract submission deadline: **September 22 (AOE), 2023** -->
 
-- Full paper submission (all authors must have an OpenReview profile when submitting) deadline: **May 28 (AOE), 2024**
+- Full paper submission (all authors must have an OpenReview profile when submitting) deadline: ~~May 28 (23:59 AOE), 2024~~ **June 2 (23:59 AOE), 2024**
 
 - Author notification: **June 17 (AOE), 2024**
 
