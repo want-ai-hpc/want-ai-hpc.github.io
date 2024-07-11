@@ -9,7 +9,9 @@ redirect_from:
     - /icml2024/about/
     - /icml2024/home/
 ---
-👥 [Discord community on AI & HPC](https://discord.gg/VvaxPjGGCJ) - Join to connect with all excited about efficient neural network training, WANT participants and organizers!  
+👥 [Discord community on AI & HPC](https://discord.gg/VvaxPjGGCJ) - Join to connect with all excited about efficient neural network training, WANT participants and organizers!
+
+📜 [WANT page at OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/WANT) - Accepted papers (Orals & Posters) are here!
 
 <h1 style="text-align: center;"> ICML'24 Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization</h1>
 

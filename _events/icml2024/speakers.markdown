@@ -109,3 +109,17 @@ summary {
     </figcaption>
   </div> 
 </div>
+
+<div class="row">
+  <div class="column">
+    <img src="{{site.url}}/assets/zach.png" title="Zachary Mueller" width="33%" />
+    <figcaption>
+    <details>
+    <summary>
+    <b>Zachary Mueller</b> <br /><em>HuggingFace</em>
+    </summary>
+    <a href="https://muellerzr.github.io/">Website</a>
+    </details>
+    </figcaption>
+  </div>
+</div>
