@@ -9,6 +9,8 @@ permalink: /icml2024/schedule
 
 📜 [WANT page at OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/WANT) - Accepted papers (Orals & Posters) are here!
 
+📊 [Poll results for NeurIPS 2023](https://drive.google.com/file/d/1evRjhz27LJCCv_cs7QqQbzPQcAQBCsq5/view?usp=sharing)
+
 2nd Workshop on Advancing Neural Network Training (WANT) will take place on **July 27, 2023**
 - **offline**: at the venue of the [ICML 2024 conference](https://icml.cc) in Vienna, Austria,
 - **online**: with [streaming from the venue](https://icml.cc/virtual/2024/workshop/29972) 🎥, poster session and networking in Gather Town 🏰.

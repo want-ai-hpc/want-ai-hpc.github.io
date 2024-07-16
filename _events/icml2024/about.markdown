@@ -13,6 +13,8 @@ redirect_from:
 
 📜 [WANT page at OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/WANT) - Accepted papers (Orals & Posters) are here!
 
+📊 [Poll results for NeurIPS 2023](https://drive.google.com/file/d/1evRjhz27LJCCv_cs7QqQbzPQcAQBCsq5/view?usp=sharing)
+
 <h1 style="text-align: center;"> ICML'24 Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization</h1>
 
 
