@@ -5,6 +5,10 @@ category: icml2024
 permalink: /icml2024/schedule
 ---
 
+👥 [Discord community on AI & HPC](https://discord.gg/VvaxPjGGCJ) - Join to connect with all excited about efficient neural network training, WANT participants and organizers!
+
+👉 [WANT poll](https://docs.google.com/forms/d/e/1FAIpQLSewPX7Sw6YhgWkkme7bUOn1gJ3rCtggbgNy3eOBpoSc7yUlJA/viewform?usp=sharing) - Tell us your insights and thought about efficient training of neural networks! Your vote does matter! ([Poll results from previous WANT@NeurIPS'23 iteration](https://drive.google.com/file/d/1evRjhz27LJCCv_cs7QqQbzPQcAQBCsq5/view?usp=sharing))
+
 📜 [WANT page at OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/WANT) - Accepted papers (Orals & Posters) are here!
 
 2nd Workshop on Advancing Neural Network Training (WANT) will take place on **July 27, 2023**

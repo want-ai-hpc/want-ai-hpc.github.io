@@ -9,7 +9,7 @@ redirect_from:
     - /neurips2023/home/
 ---
 
-👉 [WANT poll](https://forms.gle/cJHmvtZvdbMuHzxh9) - Tell us your insights and thought about efficient training of neural networks! Your vote does matter! 
+👉 [WANT poll](https://forms.gle/cJHmvtZvdbMuHzxh9) - Tell us your insights and thought about efficient training of neural networks! Your vote does matter! ([Poll results](https://drive.google.com/file/d/1evRjhz27LJCCv_cs7QqQbzPQcAQBCsq5/view?usp=sharing))
 
 📜 [WANT page at OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/WANT) - Accepted papers (Orals & Posters) are here!
 
