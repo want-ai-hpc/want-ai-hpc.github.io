@@ -181,15 +181,13 @@ ul {
 - Tao Lin (Assistant Professor, Westlake University)
 
 
-
-
 ## Reviewers
 
 <!-- {% assign row = site.data.authors[0] %}
 {{ row | inspect }} -->
 
 <!-- <table>
-  {% for row in site.data.filtered %}
+  {% for row in site.data.neurips2023 %}
 
     {% tablerow pair in row %}
       {{ pair[1] }}
@@ -198,7 +196,7 @@ ul {
 </table> -->
 
 <ul>
-{% for elem in site.data.filtered %}
+{% for elem in site.data.neurips2023 %}
   <li>
       {{ elem.name }} ({{ elem.company }})
   </li>
