@@ -171,3 +171,23 @@ ul {
     </figcaption>
   </div>
 </div> -->
+
+## Area Chairs
+
+- Tao Lin (Assistant Professor, Westlake University)
+- Jiangtao Wang (Postdoc, Forschungszentrum Juelich GmbH)
+- Saurav Muralidharan (Researcher, NVIDIA)
+- Adrian Bulat (Researcher, Samsung AI Cambridge & Technical University of Iasi)
+- Lionel Eyraud-Dubois (Researcher, INRIA)
+- Olatunji Ruwase (Researcher, Microsoft)
+- Max Ryabinin (Researcher, Together AI)
+
+## Reviewers
+
+<ul>
+{% for elem in site.data.neurips2023 %}
+  <li>
+      {{ elem.name }} ({{ elem.company }})
+  </li>
+{% endfor %}
+</ul>
