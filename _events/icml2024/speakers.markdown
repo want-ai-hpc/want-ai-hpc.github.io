@@ -32,7 +32,7 @@ summary {
 
 To be announced
 
-
+<!--
 <div class="row">
   <div class="column">
     <img src="{{site.url}}/assets/bruno.jpg" title="Bruno Raffin" width="63%" />
@@ -130,3 +130,4 @@ To be announced
     </figcaption>
   </div>
 </div>
+-->
