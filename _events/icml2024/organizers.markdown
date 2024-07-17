@@ -5,7 +5,9 @@ category: icml2024
 permalink: /icml2024/organizers
 ---
 
-
+<script>
+document.getElementsByClassName('post-title')[0].innerText += "  &  Program Chairs"
+</script>
 
 <style>
 .row {

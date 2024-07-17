@@ -5,6 +5,10 @@ category: neurips2023
 permalink: /neurips2023/organizers
 ---
 
+<script>
+document.getElementsByClassName('post-title')[0].innerText += "  &  Program Chairs"
+</script>
+
 <style>
 .row {
   display: flex;
