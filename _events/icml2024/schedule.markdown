@@ -29,7 +29,7 @@ permalink: /icml2024/schedule
 
 | Time (Vienna) | **Afternoon** |
 |:-----------------------------------------------------------------:|
-| 12:30 - 13:30 | Lunch 🏰 | 
+| 12:30 - 13:30 | Lunch 🏰 |
 | 13:30 - 14:00 | Poster session 📋 🏰 | 
 | 14:00 - 14:30 | Invited talk 4 🎥 | 
 | 14:30 - 15:00 | Invited talk 5 🎥 | 
