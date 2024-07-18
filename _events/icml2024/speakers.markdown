@@ -30,9 +30,6 @@ summary {
 }
 </style>
 
-To be announced
-
-<!--
 <div class="row">
   <div class="column">
     <img src="{{site.url}}/assets/bruno.jpg" title="Bruno Raffin" width="63%" />
@@ -81,7 +78,7 @@ To be announced
     <figcaption>
     <details>
     <summary>
-    <b>Beidi Chen</b> <br /> <em>Meta & Carnegie Mellon University</em>
+    <b>Beidi Chen</b> <br /> <em>Carnegie Mellon University & Meta</em>
     </summary>
     <a href="https://scholar.google.com/citations?user=jCNJhFcAAAAJ">Publications</a>
     <a href="https://www.andrew.cmu.edu/user/beidic">Website</a>
@@ -130,4 +127,3 @@ To be announced
     </figcaption>
   </div>
 </div>
--->
