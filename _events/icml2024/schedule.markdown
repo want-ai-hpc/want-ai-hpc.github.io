@@ -21,13 +21,10 @@ permalink: /icml2024/schedule
 | 09:00 - 09:10 | Welcome speech from Organizers 🎥 | 
 | 09:10 - 09:40 | Invited talk 1 🎥 | 
 | 09:40 - 10:10 | Invited talk 2 🎥 | 
-| 10:10 - 10:20 | Contributed talk 1 🎥 |
-| 10:20 - 10:30 | Contributed talk 2 🎥 |
+| 10:10 - 10:30 | Contributed talks 🎥 |
 | 10:30 - 11:30 | Poster session 📋 🏰 |
 | 11:30 - 12:00 | Invited talk 3 🎥 | 
-| 12:00 - 12:10 | Contributed talk 3 🎥 |
-| 12:10 - 12:20 | Contributed talk 4 🎥 |
-| 12:20 - 12:30 | Contributed talk 5 🎥 |
+| 12:00 - 12:30 | Contributed talks 🎥 |
 
 
 | Time (Vienna) | **Afternoon** |
@@ -36,8 +33,7 @@ permalink: /icml2024/schedule
 | 13:30 - 14:10 | Poster session 📋 🏰 | 
 | 14:10 - 14:40 | Invited talk 4 🎥 | 
 | 14:40 - 15:10 | Invited talk 5 🎥 | 
-| 15:10 - 15:20 | Contributed talk 6 🎥 |
-| 15:20 - 15:30 | Contributed talk 7 🎥 |
+| 15:10 - 15:30 | Contributed talks 🎥 |
 | 15:30 - 16:00 | Coffee & Poster session 📋 🏰 | 
 | 16:00 - 16:50 | Panel Discussion 🎥 |
 | 16:50 - 17:00 | Awards & Closing remarks 🎥 |
