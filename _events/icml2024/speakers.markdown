@@ -45,18 +45,17 @@ summary {
     </figcaption>
   </div> 
   <div class="column">
-    <img src="{{site.url}}/assets/adam.jpeg" title="Adam DeConinck" width="63%" />
+    <img src="{{site.url}}/assets/zach.png" title="Zachary Mueller" width="63%" />
     <figcaption>
     <details>
     <summary>
-    <b>Adam DeConinck</b> <br /> <em>NVIDIA</em>
+    <b>Zachary Mueller</b> <br /><em>HuggingFace</em>
     </summary>
-    Adam DeConinck is a senior manager on the NVIDIA Applied Systems Engineering team, where he supports a team of system architects who design next-generation AI supercomputers. His past experience includes building high-performance compute and storage systems at scale at Los Alamos National Laboratory and Facebook, as well as for NVIDIA’s HPC and AI customers.
-    <a href="https://scholar.google.com/citations?user=sDqVcO0AAAAJ&hl=fr&oi=sra">Publications</a>
-    <a href="https://www.ajdecon.org/">Website</a>
+    Zach Mueller is the Technical Lead for the Accelerate project at Hugging Face. He's a graduate of the University of West Florida and has considerable experience with Hugging Face as well as the fastai communities.
+    <a href="https://muellerzr.github.io/">Website</a>
     </details>
     </figcaption>
-  </div> 
+  </div>
 </div>
 
 <div class="row">
@@ -84,18 +83,21 @@ summary {
     <a href="https://www.andrew.cmu.edu/user/beidic">Website</a>
     </details>
     </figcaption>
-  </div> 
+  </div>
 </div>
 
 <div class="row">
+  
   <div class="column">
-    <img src="{{site.url}}/assets/OlivierB.jpeg" title="Olivier Beaumont" width="63%" />
+    <img src="{{site.url}}/assets/adam.jpeg" title="Adam DeConinck" width="63%" />
     <figcaption>
     <details>
     <summary>
-    <b>Olivier Beaumont</b> <br /> <em>INRIA</em>
+    <b>Adam DeConinck</b> <br /> <em>NVIDIA</em>
     </summary>
-    <a href="https://scholar.google.com/citations?hl=en&user=XT007NgAAAAJ">Publications</a>
+    Adam DeConinck is a senior manager on the NVIDIA Applied Systems Engineering team, where he supports a team of system architects who design next-generation AI supercomputers. His past experience includes building high-performance compute and storage systems at scale at Los Alamos National Laboratory and Facebook, as well as for NVIDIA’s HPC and AI customers.
+    <a href="https://scholar.google.com/citations?user=sDqVcO0AAAAJ&hl=fr&oi=sra">Publications</a>
+    <a href="https://www.ajdecon.org/">Website</a>
     </details>
     </figcaption>
   </div> 
@@ -106,6 +108,7 @@ summary {
     <summary>
     <b>Max Ryabinin</b> <br /> <em>TogetherAI</em>
     </summary>
+    Max Ryabinin is a Distinguished Research Scientist at Together AI working on large-scale and efficient deep learning. Previously, he was a Senior Research Scientist at Yandex, studying a variety of topics in NLP and machine learning systems. In 2021-2022, Max has served as the working group chair for the BigScience Research Workshop, helping build BLOOM — the largest multilingual language model at that time. Max received his PhD on decentralized deep learning from HSE University: in a series of publications, he proposed methods for training large neural networks over slow and unstable networks.
     <a href="https://scholar.google.com/citations?user=930PERsAAAAJ">Publications</a>
     <a href="https://mryab.github.io/">Website</a>
     </details>
@@ -115,15 +118,16 @@ summary {
 
 <div class="row">
   <div class="column">
-    <img src="{{site.url}}/assets/zach.png" title="Zachary Mueller" width="33%" />
+    <img src="{{site.url}}/assets/OlivierB.jpeg" title="Olivier Beaumont" width="33%" />
     <figcaption>
     <details>
     <summary>
-    <b>Zachary Mueller</b> <br /><em>HuggingFace</em>
+    <b>Olivier Beaumont</b> <br /> <em>INRIA</em>
     </summary>
-    Zach Mueller is the Technical Lead for the Accelerate project at Hugging Face. He's a graduate of the University of West Florida and has considerable experience with Hugging Face as well as the fastai communities.
-    <a href="https://muellerzr.github.io/">Website</a>
+    Olivier’s main research interests are combinatorial optimization problems arising in HPC (load balancing, scheduling, data distribution), with applications in Linear Algebra and Training of Deep Neural Networks. Thus, he can contribute to discussions on integrating optimization techniques in neural network training
+    <a href="https://scholar.google.com/citations?hl=en&user=XT007NgAAAAJ">Publications</a>
     </details>
     </figcaption>
-  </div>
+  </div> 
 </div>
+
