@@ -29,11 +29,12 @@ permalink: /icml2024/schedule
 
 | Time (Vienna) | **Afternoon** |
 |:-----------------------------------------------------------------:|
-| 12:30 - 13:30 | Lunch 🏰 | 
-| 13:30 - 14:10 | Poster session 📋 🏰 | 
-| 14:10 - 14:40 | Invited talk 4 🎥 | 
-| 14:40 - 15:10 | Invited talk 5 🎥 | 
-| 15:10 - 15:30 | Contributed talks 🎥 |
+| 12:30 - 13:30 | Lunch 🏰 |
+| 13:30 - 14:00 | Poster session 📋 🏰 | 
+| 14:00 - 14:30 | Invited talk 4 🎥 | 
+| 14:30 - 15:00 | Invited talk 5 🎥 | 
+| 15:00 - 15:20 | Contributed talks 🎥 |
+| 15:20 - 15:30 | Best paper awards 🎥 |
 | 15:30 - 16:00 | Coffee & Poster session 📋 🏰 | 
 | 16:00 - 16:50 | Panel Discussion 🎥 |
-| 16:50 - 17:00 | Awards & Closing remarks 🎥 |
+| 16:50 - 17:00 | Closing remarks 🎥 |
