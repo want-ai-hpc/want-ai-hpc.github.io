@@ -19,11 +19,11 @@ permalink: /icml2024/schedule
 |:-----------------------------------------------------------------:|
 | 08:30 - 09:00 | Coffee & Poster placement 🏰 | 
 | 09:00 - 09:10 | Welcome speech from Organizers 🎥 | 
-| 09:10 - 09:40 | Invited talk 1 🎥 | 
-| 09:40 - 10:10 | Invited talk 2 🎥 | 
+| 09:10 - 09:40 | Invited talk by Bruno Raffin [INRIA] 🎥 | 
+| 09:40 - 10:10 | Invited talk by Zachary Mueller [HuggingFace] 🎥 | 
 | 10:10 - 10:30 | Contributed talks 🎥 |
 | 10:30 - 11:30 | Poster session 📋 🏰 |
-| 11:30 - 12:00 | Invited talk 3 🎥 | 
+| 11:30 - 12:00 | Invited talk by Urmish Thakker [SambaNova] 🎥 | 
 | 12:00 - 12:30 | Contributed talks 🎥 |
 
 
@@ -32,7 +32,7 @@ permalink: /icml2024/schedule
 | 12:30 - 13:30 | Lunch 🏰 |
 | 13:30 - 14:00 | Poster session 📋 🏰 | 
 | 14:00 - 14:30 | Invited talk 4 🎥 | 
-| 14:30 - 15:00 | Invited talk 5 🎥 | 
+| 14:30 - 15:00 | Invited talk by Adam DeConinck [NVIDIA] 🎥 | 
 | 15:00 - 15:20 | Contributed talks 🎥 |
 | 15:20 - 15:30 | Best paper awards 🎥 |
 | 15:30 - 16:00 | Coffee & Poster session 📋 🏰 | 
