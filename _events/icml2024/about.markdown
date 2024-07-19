@@ -15,6 +15,8 @@ redirect_from:
 
 📜 [WANT page at OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/WANT) - Accepted papers (Orals & Posters) are here!
 
+2nd Workshop on Advancing Neural Network Training (WANT) will take place on **July 27, 2024** in Vienna.
+
 <h1 style="text-align: center;"> ICML'24 Workshop on Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization</h1>
 
 
