@@ -79,6 +79,7 @@ summary {
     <summary>
     <b>Beidi Chen</b> <br /> <em>Carnegie Mellon University & Meta</em>
     </summary>
+    Beidi Chen is an Assistant Professor at Carnegie Mellon University and a Research Scientist at FAIR. Before that, she was a postdoctoral scholar at Stanford University. She received her Ph.D. from Rice University. Her research focuses on efficient AI; specifically, she designs and optimizes algorithms on current hardware to accelerate large machine learning systems. Her work has won best paper runner-up at ICML 2022 and she was selected as a Rising Star in EECS by MIT and UIUC.
     <a href="https://scholar.google.com/citations?user=jCNJhFcAAAAJ">Publications</a>
     <a href="https://www.andrew.cmu.edu/user/beidic">Website</a>
     </details>
