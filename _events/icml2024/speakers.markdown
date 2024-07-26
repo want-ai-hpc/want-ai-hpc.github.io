@@ -117,7 +117,7 @@ summary {
   </div> 
 </div>
 
-<div class="row">
+<!-- <div class="row">
   <div class="column">
     <img src="{{site.url}}/assets/OlivierB.jpeg" title="Olivier Beaumont" width="33%" />
     <figcaption>
@@ -130,4 +130,4 @@ summary {
     </details>
     </figcaption>
   </div> 
-</div>
+</div> -->
